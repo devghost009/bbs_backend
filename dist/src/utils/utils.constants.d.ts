@@ -1,0 +1,10 @@
+export declare const STATUS_NUM_OF_CREATED = 201;
+export declare const STATUS_BAD_REQUEST = 400;
+export declare const STATUS_NOT_FOUND = 404;
+export declare const STATUS_MANY_REQUEST = 429;
+export declare const ERROR = "error";
+export declare const NULL = "null";
+export declare const MSG_UNKNOWN_ERROR = "Server occurred an unknown error.";
+export declare const CALENDAR_TYPE_OF_EVENT = "event";
+export declare const REST_TIME_IN_MS = 600000;
+export declare const MEETING_GAP_IN_MS = 600000;

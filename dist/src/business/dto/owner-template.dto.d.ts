@@ -1,0 +1,34 @@
+export declare class OwnerTemplateDto {
+    businessId: string;
+    is_seller_agency: string;
+    is_transaction_brokerage: string;
+    dba_business_tradename: string;
+    start_date: string;
+    end_date: string;
+    total_purchase_percent: string;
+    total_purchase_price: string;
+    asking_price_of_cre: string;
+    cash: string;
+    sba: string;
+    other: string;
+    earnest_money: string;
+    leased_items_transaction: string;
+    price_exclusions: string;
+    existing_monetary: string;
+    seller_info: string;
+    additional_provisions: string;
+    current_date: string;
+    broker_name: string;
+    business_address: string;
+    askng_business_price: string;
+    asking_plus_inventory_price: string;
+    seller_title: string;
+    seller_phone: string;
+    seller_email: string;
+    broker_phone: string;
+    broker_email: string;
+    listingTitle: string;
+    isTerms: string;
+    isCash: string;
+    isSba: string;
+}
